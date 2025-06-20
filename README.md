@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eshan Biswas</h1>
 <h3 align="center">A passionate frontend developer and creative designing from India</h3>
+<img align="right" height="150" src="https://i.pinimg.com/originals/a1/1d/41/a11d416a30a7a0d4c75a51bdba5d6670.gif"  />
 
 - 🔭 I’m currently working on **Logistic UI Web application**
 
